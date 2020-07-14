@@ -1,0 +1,80 @@
+### 674. 最长连续递增序列
+
+#### 描述
+
+给定一个未经排序的整数数组，找到最长且连续的的递增序列，并返回该序列的长度。
+
+
+来源：力扣（LeetCode）
+
+链接：https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence
+
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
+#### 示例
+
++ 示例 1:
+```md
+输入: [1,3,5,4,7]
+
+输出: 3
+
+解释: 最长连续递增序列是 [1,3,5], 长度为3。
+
+尽管 [1,3,5,7] 也是升序的子序列, 但它不是连续的，因为5和7在原数组里被4隔开。 
+```
++ 示例 2:
+```md
+输入: [2,2,2,2,2]
+
+输出: 1
+
+解释: 最长连续递增序列是 [2], 长度为1。
+```
+
+
+#### 注意：
+```md
+数组长度不会超过10000。
+```
+
+### 解答
+
++ 解答 1
+```js
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var findLengthOfLCIS = function(nums) {
+    if(nums.length < 1) return nums.length;
+    let sum = 1;
+    let maxSum = 1;
+    let item = nums[0]
+    for(let i = 1; i < nums.length; i ++) {
+        if(nums[i] > item) {
+            sum ++;
+        } else {
+            if(maxSum < sum) maxSum = sum;
+            sum = 1;
+        }
+        item = nums[i];
+    }
+    if(maxSum < sum) maxSum = sum;
+    return maxSum;
+};
+```
+
+#### Thoughts
+
++ 1、这是一道简单题，对于未经排序的数组的数据操作，感性认知是至少需要遍历一遍数组。根据题目要求，马上可以得到思路是遍历数组，每次都比较数组相邻元素的大小，递增的话计数加1 ，否则重置计数器。
+
+  需要注意的点有三处：
+
+  1 需要两个计数器，一个是记录每次比较的累加sum，另一个是记录一趟遍历下计数器最大的数值maxSum，这个计数器才是最后应该返回的结果
+
+  2 在每次重置计数器sum之前更新最大计数器maxSum，循环结束后还需要再更新一次，否则对于递增数组，maxSum将会一次也没更新
+
+  3 题目有个边界情况就是当输入数组为空时返回0，这个条件在开头判断一下即可
+
+

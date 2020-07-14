@@ -6,4 +6,5 @@
 
 ##### Array
 + 2020.07.13 1051.Height Checker
-+ 2020.07.14 剑指 Offer 53 - II.missingNumber
++ 2020.07.14 剑指 Offer 53 - II.missingNumber and 674. 最长连续递增序列
++ 
