@@ -32,19 +32,108 @@ nums2 = [2,5,6],       n = 3
 
 + 解答 1
 ```js
-
+/**
+ * @param {number[]} nums1
+ * @param {number} m
+ * @param {number[]} nums2
+ * @param {number} n
+ * @return {void} Do not return anything, modify nums1 in-place instead.
+ */
+var merge = function(nums1, m, nums2, n) {
+    for(let i = m, j = 0; i < m + n; i++, j++) {
+        nums1[i] = nums2[j];
+    }
+    return nums1.sort((a, b) => a-b)
+};
 ```
 
 + 解答 2
 ```js
+/**
+ * @param {number[]} nums1
+ * @param {number} m
+ * @param {number[]} nums2
+ * @param {number} n
+ * @return {void} Do not return anything, modify nums1 in-place instead.
+ */
+var merge = function(nums1, m, nums2, n) {
+    let nums = nums1, i = 0, j = 0, k = 0;
+    nums1 = nums.slice();
+    while(i < m && j < n) {
+        if(nums1[i] >= nums2[j]) {
+            nums[k] = nums2[j];
+            j ++;
+        } else {
+            nums[k] = nums1[i];
+            i ++
+        }
+        k ++
+    }
+    while(i < m) {
+        nums[k] = nums1[i];
+        k++;
+        i++;
+    }
+    while(j < n) {
+        nums[k] = nums2[j];
+        k++;
+        j++;
+    }
 
+    return nums;
+};
 ```
 
 + 解答 3
 ```js
-
+/**
+ * @param {number[]} nums1
+ * @param {number} m
+ * @param {number[]} nums2
+ * @param {number} n
+ * @return {void} Do not return anything, modify nums1 in-place instead.
+ */
+var merge = function(nums1, m, nums2, n) {
+    let i = m - 1, j = n - 1, k = m + n - 1;
+    while(i >= 0 && j >= 0) {
+        if(nums2[j] > nums1[i]) {
+            nums1[k] = nums2[j]
+            j--;
+        } else {
+            nums1[k] = nums1[i]
+            i--;
+        }
+        k--;
+    }
+    while(j >= 0) {
+        nums1[j] = nums2[j];
+        j--;
+    }
+};
 ```
 
 #### Thoughts
 
-+ 1、
++ 1、最容易想到的方法一般就是最好理解但是性能最差的方法。既然题目要求的是把nums2合并到nums1，最后检查的是nums1是否有序，那么就可以直接把nums2合并过去然后再对nums1排序就好。
+
+  这样的话，时间复杂度就变成了O((n+m)log(n+m))
+
++ 2、合并两个有序数组成为一个有序数组，之前做过一个链表类型的题目，但是返回的是一个新的链表。
+
+  面对题目这样合并到其中一个数组的，用之前的经验好像就变复杂了。这里的做法就是把nums1当成结果数组，而nums1存一个nums1的副本，这样问题就转化成了之前的题目。
+
+  所以做法就是按，对两个数组内的元素进行大小比较，将其一一复制到结果数组中。最后再看哪个数组还有剩余元素，全部复制到结果数组中。
+
+  这样的做法，空间复杂度就是O(m+n)，时间复杂度就是O(m+n)
+
++ 3、2的方法是可以解决此类问题的，但是这道题有自身的特殊性，它要求将nums2合并到nums1，那么有一种更巧妙的方法可以将空间复杂度降下来。
+
+  面对数组的题，遍历是少不了的，但是遍历的技巧也是有的，不多，有一种思路是从后向前遍历。在尝试思考过各种方法以后，不妨试一试这一种。
+
+  在本题中，可以针对两个数组，从后向前遍历并比较大小。这样的话，最大的数就可以直接放置在nums1的最后一个位置，依次比较，把最大值从后向前放置。
+
+  此时，就可以只用一个下标去记录当前元素应该放置的位置即可。
+
+  最后，若nums2还有剩余元素，说明这些剩余元素均小于nums1的最小的元素了，那么将nums2的元素按nums2的位置一一放置到nums1的对应位置即可。
+
+  此时的时间复杂度仍然是O(m+n)，但是空间复杂度降为了O(1)
