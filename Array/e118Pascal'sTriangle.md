@@ -1,0 +1,79 @@
+### 118. 杨辉三角
+
+#### 描述
+给定一个非负整数 numRows，生成杨辉三角的前 numRows 行。
+
+来源：力扣（LeetCode）
+
+链接：https://leetcode-cn.com/problems/pascals-triangle/
+
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
+#### 示例
+
+```md
+输入: 5
+输出:
+[
+     [1],
+    [1,1],
+   [1,2,1],
+  [1,3,3,1],
+ [1,4,6,4,1]
+]
+```
+
+### 解答
+
++ 解答 1
+```js
+/**
+ * @param {number} numRows
+ * @return {number[][]}
+ */
+var generate = function(numRows) {
+    if(numRows < 1) return [];
+    let res = [[1]];
+    for(let i = 2; i <= numRows; i++) {
+        let pre = res[res.length - 1];
+        let item = new Array(i);
+        for(let j = 0; j < item.length; j ++) {
+            item[j] = (pre[j - 1] || 0) + (pre[j] || 0)
+        }
+        res.push(item);
+    }
+    return res;
+};
+```
+
++ 解答 2
+```js
+/**
+ * @param {number} numRows
+ * @return {number[][]}
+ */
+var generate = function(numRows) {
+    let res = [];
+    for(let i = 0; i < numRows; i++) {
+        let pre = res[i - 1];
+        let item = [];
+        item[0] = 1;
+        item[i] = 1;
+        for(let j = 1; j < i; j ++) {
+            item[j] = pre[j - 1] + pre[j]
+        }
+        res.push(item);
+    }
+    return res;
+};
+```
+
+#### Thoughts
+
++ 1、这道题被评论区吐槽为“看图写作文”的题，哈哈。具体就是，要求怎么做，就怎么写代码，没有太多的技巧。我最开始的想法里，还想写一个小的生成组合数的函数，结果发现，好像需要再写一个n的阶乘的函数，遂放弃。
+
+  于是，做法就是，对于给定的行数，生成对应个数的数组，每个数组里的元素，都从上一个数组里取出，并进行j-1和j两个下标的元素相加，取不到就就取0，以此来生成当前的数组。最后将这个数组push到结果数组里去。最后返回这个结果数组，即可。
+
++ 2、看了官方做法，也没有太多优化的空间，最后看了耗时较少的一个做法，做了一个小的优化。
+
+  具体的方式是，考虑到每个数组的首尾元素均为1，故可提前设置，于是在相加的过程中，就可以少操作一或者两个数，并且不会出现取不到数组元素的情况，耗时确实减少了。点赞！
