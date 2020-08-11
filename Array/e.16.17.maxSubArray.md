@@ -59,6 +59,18 @@ var maxSubArray = function(nums) {
     }
     return Math.max(...nums);
 };
+// 或者
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var maxSubArray = function(nums) {
+    let len = nums.length, arr = [nums[0]];
+    for(let i = 1; i < len; i++) {
+        arr[i] = arr[i - 1] < 0 ? nums[i] : nums[i] + arr[i - 1];
+    }
+    return Math.max(...arr);
+};
 ```
 
 + 解答 3
