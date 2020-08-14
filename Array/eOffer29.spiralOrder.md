@@ -1,5 +1,7 @@
 ### 剑指 Offer 29. 顺时针打印矩阵
 
+注意：本题与主站 54 题相同：https://leetcode-cn.com/problems/spiral-matrix/
+
 #### 描述
 
 输入一个矩阵，按照从外向里以顺时针的顺序依次打印出每一个数字。
@@ -32,8 +34,6 @@
 
 2. 0 <= matrix[i].length <= 100
 ```
-
-注意：本题与主站 54 题相同：https://leetcode-cn.com/problems/spiral-matrix/
 
 ### 解答
 
