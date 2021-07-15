@@ -173,6 +173,8 @@
 + 2021.07.07 112. 路径总和
 + 2021.07.08 144. 二叉树的前序遍历
 
++ 2021.07.15 145. 二叉树的后序遍历
+
 
 ##### 关于树的算法，可以使用的小技巧：
 + Morris遍历算法，将空间复杂度降为O(1)：94. 二叉树的中序遍历
@@ -207,6 +209,13 @@
 
 
 #### others
+
++ 做完未添加的题目：
+  + 930. 和相同的二元子数组：https://leetcode-cn.com/problems/binary-subarrays-with-sum/
+  + 981. 基于时间的键值存储：https://leetcode-cn.com/problems/time-based-key-value-store/
+  + 274. H 指数：https://leetcode-cn.com/problems/h-index/
+  + 275. H 指数 II：https://leetcode-cn.com/problems/h-index-ii/
+  + 1846. 减小和重新排列数组后的最大元素：https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/
 
 #### competition
 
