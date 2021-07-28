@@ -106,6 +106,7 @@
 
 + 2021.07.26 240. 搜索二维矩阵 II and 300. 最长递增子序列
 + 2021.07.27 435. 无重叠区间
++ 2021.07.28 238. 除自身以外数组的乘积
 
 
 ##### 关于数组的算法，可以使用的小技巧：
@@ -240,6 +241,7 @@
   + 70. 爬楼梯：https://leetcode-cn.com/problems/climbing-stairs/
   + 155. 最小栈：https://leetcode-cn.com/problems/min-stack/
   + 334. 递增的三元子序列：https://leetcode-cn.com/problems/increasing-triplet-subsequence/
+  + 560. 和为K的子数组：https://leetcode-cn.com/problems/subarray-sum-equals-k/
 
 #### competition
 
