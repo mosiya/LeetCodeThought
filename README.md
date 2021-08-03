@@ -179,6 +179,8 @@
 
 + 2021.07.15 145. 二叉树的后序遍历
 
++ 2021.08.03 257. 二叉树的所有路径
+
 ##### 中等难度
 
 
@@ -242,6 +244,20 @@
   + 155. 最小栈：https://leetcode-cn.com/problems/min-stack/
   + 334. 递增的三元子序列：https://leetcode-cn.com/problems/increasing-triplet-subsequence/
   + 560. 和为K的子数组：https://leetcode-cn.com/problems/subarray-sum-equals-k/
+  + 409. 最长回文串：https://leetcode-cn.com/problems/longest-palindrome/
+  + 415. 字符串相加：https://leetcode-cn.com/problems/add-strings/
+  + 290. 单词规律：https://leetcode-cn.com/problems/word-pattern/
+  + 763. 划分字母区间：https://leetcode-cn.com/problems/partition-labels/
+  + 49. 字母异位词分组：https://leetcode-cn.com/problems/group-anagrams/
+  + 43. 字符串相乘：https://leetcode-cn.com/problems/multiply-strings/
+  + 187. 重复的DNA序列：https://leetcode-cn.com/problems/repeated-dna-sequences/
+  + 5. 最长回文子串：https://leetcode-cn.com/problems/longest-palindromic-substring/
+  + 2. 两数相加：https://leetcode-cn.com/problems/add-two-numbers/
+  + 142. 环形链表 II：https://leetcode-cn.com/problems/linked-list-cycle-ii/
+  + 82. 删除排序链表中的重复元素 II：https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/
+  + 24. 两两交换链表中的节点：https://leetcode-cn.com/problems/swap-nodes-in-pairs/
+  + 707. 设计链表：https://leetcode-cn.com/problems/design-linked-list/
+  + 581. 最短无序连续子数组：https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
 
 #### competition
 
