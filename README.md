@@ -260,6 +260,29 @@
   + 24. 两两交换链表中的节点：https://leetcode-cn.com/problems/swap-nodes-in-pairs/
   + 707. 设计链表：https://leetcode-cn.com/problems/design-linked-list/
   + 581. 最短无序连续子数组：https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
+  + 143. 重排链表：https://leetcode-cn.com/problems/reorder-list/
+  + 328. 奇偶链表：https://leetcode-cn.com/problems/odd-even-linked-list/
+  + 103. 二叉树的锯齿形层序遍历：https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/
+  + 1249. 移除无效的括号：https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/
+  + 105. 从前序与中序遍历序列构造二叉树： https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+  + 1823. 找出游戏的获胜者：https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/
+  + 25. K 个一组翻转链表：https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
+  + 199. 二叉树的右视图：https://leetcode-cn.com/problems/binary-tree-right-side-view/
+  + 113. 路径总和 II：https://leetcode-cn.com/problems/path-sum-ii/
+  + 230. 二叉搜索树中第K小的元素：https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/
+  + 173. 二叉搜索树迭代器：https://leetcode-cn.com/problems/binary-search-tree-iterator/
+  + 450. 删除二叉搜索树中的节点：https://leetcode-cn.com/problems/delete-node-in-a-bst/
+  + 236. 二叉树的最近公共祖先：https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
+  + 997. 找到小镇的法官：https://leetcode-cn.com/problems/find-the-town-judge/
+  + 1557. 可以到达所有点的最少点数目：https://leetcode-cn.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+  + 841. 钥匙和房间：https://leetcode-cn.com/problems/keys-and-rooms/
+  + 215. 数组中的第K个最大元素：https://leetcode-cn.com/problems/kth-largest-element-in-an-array/
+  + 347. 前 K 个高频元素：https://leetcode-cn.com/problems/top-k-frequent-elements/
+  + 451. 根据字符出现频率排序：https://leetcode-cn.com/problems/sort-characters-by-frequency/
+  + 973. 最接近原点的 K 个点：https://leetcode-cn.com/problems/k-closest-points-to-origin/
+  + 297. 二叉树的序列化与反序列化：https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
+  + 430. 扁平化多级双向链表：https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
+  + 61. 旋转链表：https://leetcode-cn.com/problems/rotate-list/
 
 #### competition
 
