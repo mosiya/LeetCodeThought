@@ -74,6 +74,8 @@
 
 + 2021.07.08 350. 两个数组的交集 II and 349. 两个数组的交集
 
++ 2021.08.12 704. 二分查找
+
 ##### 中等难度
 + 2020.11.30 1438. 绝对差不超过限制的最长连续子数组
 + 2020.12.01 1267. 统计参与通信的服务器
@@ -283,6 +285,7 @@
   + 297. 二叉树的序列化与反序列化：https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
   + 430. 扁平化多级双向链表：https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
   + 61. 旋转链表：https://leetcode-cn.com/problems/rotate-list/
+  + 1137. 第 N 个泰波那契数：https://leetcode-cn.com/problems/n-th-tribonacci-number/
 
 #### competition
 
