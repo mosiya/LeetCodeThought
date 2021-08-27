@@ -286,6 +286,31 @@
   + 430. 扁平化多级双向链表：https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
   + 61. 旋转链表：https://leetcode-cn.com/problems/rotate-list/
   + 1137. 第 N 个泰波那契数：https://leetcode-cn.com/problems/n-th-tribonacci-number/
+  + 344. 反转字符串：https://leetcode-cn.com/problems/reverse-string/
+  + 557. 反转字符串中的单词 III：https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/
+  + 3. 无重复字符的最长子串：https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
+  + 19. 删除链表的倒数第 N 个结点：https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
+  + 567. 字符串的排列：https://leetcode-cn.com/problems/permutation-in-string/
+
+  + 733. 图像渲染：https://leetcode-cn.com/problems/flood-fill/
+  + 695. 岛屿的最大面积：https://leetcode-cn.com/problems/max-area-of-island/
+  + 617. 合并二叉树：https://leetcode-cn.com/problems/merge-two-binary-trees/
+  + 116. 填充每个节点的下一个右侧节点指针：https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/
+  + 542. 01 矩阵：https://leetcode-cn.com/problems/01-matrix/
+  + 231. 2 的幂：https://leetcode-cn.com/problems/power-of-two/
+  + 191. 位1的个数：https://leetcode-cn.com/problems/number-of-1-bits/
+  + 190. 颠倒二进制位：https://leetcode-cn.com/problems/reverse-bits/
+  + 42. 接雨水：https://leetcode-cn.com/problems/trapping-rain-water/
+  + 994. 腐烂的橘子：https://leetcode-cn.com/problems/rotting-oranges/
+  + 77. 组合：https://leetcode-cn.com/problems/combinations/
+  + 784. 字母大小写全排列：https://leetcode-cn.com/problems/letter-case-permutation/
+  + 740. 删除并获得点数：https://leetcode-cn.com/problems/delete-and-earn/
+
+  + 918. 环形子数组的最大和：https://leetcode-cn.com/problems/maximum-sum-circular-subarray/
+  + 152. 乘积最大子数组：https://leetcode-cn.com/problems/maximum-product-subarray/
+  + 1567. 乘积为正数的最长子数组长度：https://leetcode-cn.com/problems/maximum-length-of-subarray-with-positive-product/
+  + 309. 最佳买卖股票时机含冷冻期：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+  + 714. 买卖股票的最佳时机含手续费：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 
 #### competition
 
