@@ -311,6 +311,24 @@
   + 1567. 乘积为正数的最长子数组长度：https://leetcode-cn.com/problems/maximum-length-of-subarray-with-positive-product/
   + 309. 最佳买卖股票时机含冷冻期：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
   + 714. 买卖股票的最佳时机含手续费：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+  + 139. 单词拆分：https://leetcode-cn.com/problems/word-break/
+  + 413. 等差数列划分：https://leetcode-cn.com/problems/arithmetic-slices/
+
+  + 392. 判断子序列：https://leetcode-cn.com/problems/is-subsequence/
+  + 91. 解码方法：https://leetcode-cn.com/problems/decode-ways/
+  + 264. 丑数 II：https://leetcode-cn.com/problems/ugly-number-ii/
+  + 96. 不同的二叉搜索树：https://leetcode-cn.com/problems/unique-binary-search-trees/
+  + 931. 下降路径最小和：https://leetcode-cn.com/problems/minimum-falling-path-sum/
+  + 1314. 矩阵区域和：https://leetcode-cn.com/problems/matrix-block-sum/
+  + 304. 二维区域和检索 - 矩阵不可变：https://leetcode-cn.com/problems/range-sum-query-2d-immutable/
+  
+  + 322. 零钱兑换：https://leetcode-cn.com/problems/coin-change/
+  + 518. 零钱兑换 II：https://leetcode-cn.com/problems/coin-change-2/
+  + 221. 最大正方形：https://leetcode-cn.com/problems/maximal-square/
+  + 516. 最长回文子序列：https://leetcode-cn.com/problems/longest-palindromic-subsequence/
+  + 1143. 最长公共子序列：https://leetcode-cn.com/problems/longest-common-subsequence/
+  + 376. 摆动序列：https://leetcode-cn.com/problems/wiggle-subsequence/
+  + 72. 编辑距离：https://leetcode-cn.com/problems/edit-distance/
 
 #### competition
 
