@@ -195,6 +195,7 @@
 + 653. 两数之和 IV - 输入 BST：https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/
 + 98. 验证二叉搜索树：https://leetcode-cn.com/problems/validate-binary-search-tree/
 + 235. 二叉搜索树的最近公共祖先：https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
++ 404. 左叶子之和：https://leetcode-cn.com/problems/sum-of-left-leaves/
 
 
 
@@ -329,6 +330,27 @@
   + 1143. 最长公共子序列：https://leetcode-cn.com/problems/longest-common-subsequence/
   + 376. 摆动序列：https://leetcode-cn.com/problems/wiggle-subsequence/
   + 72. 编辑距离：https://leetcode-cn.com/problems/edit-distance/
+  + 377. 组合总和 Ⅳ：https://leetcode-cn.com/problems/combination-sum-iv/
+  + 343. 整数拆分：https://leetcode-cn.com/problems/integer-break/
+  + 279. 完全平方数：https://leetcode-cn.com/problems/perfect-squares/
+
+  + 153. 寻找旋转排序数组中的最小值：https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/
+  + 162. 寻找峰值：https://leetcode-cn.com/problems/find-peak-element/
+  + 92. 反转链表 II：https://leetcode-cn.com/problems/reverse-linked-list-ii/
+  + 4. 寻找两个正序数组的中位数：https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
+
+  + 146. LRU 缓存机制：https://leetcode-cn.com/problems/lru-cache/
+  + 844. 比较含退格的字符串：https://leetcode-cn.com/problems/backspace-string-compare/
+  + 877. 石子游戏：https://leetcode-cn.com/problems/stone-game/
+  + 14. 最长公共前缀：https://leetcode-cn.com/problems/longest-common-prefix/
+  + 17. 电话号码的字母组合：https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
+  + 85. 最大矩形：https://leetcode-cn.com/problems/maximal-rectangle/
+  + 209. 长度最小的子数组：https://leetcode-cn.com/problems/minimum-size-subarray-sum/
+  + 713. 乘积小于K的子数组：https://leetcode-cn.com/problems/subarray-product-less-than-k/
+  + 438. 找到字符串中所有字母异位词：https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/
+  + 986. 区间列表的交集：https://leetcode-cn.com/problems/interval-list-intersections/
+  + 200. 岛屿数量：https://leetcode-cn.com/problems/number-of-islands/
+  + 547. 省份数量：https://leetcode-cn.com/problems/number-of-provinces/
 
 #### competition
 
