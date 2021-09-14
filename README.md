@@ -352,6 +352,27 @@
   + 200. 岛屿数量：https://leetcode-cn.com/problems/number-of-islands/
   + 547. 省份数量：https://leetcode-cn.com/problems/number-of-provinces/
 
+  + 572. 另一棵树的子树：https://leetcode-cn.com/problems/subtree-of-another-tree/
+  + 117. 填充每个节点的下一个右侧节点指针 II：https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/
+  + 135. 分发糖果：https://leetcode-cn.com/problems/candy/
+
+  + 1091. 二进制矩阵中的最短路径：https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/
+  + 130. 被围绕的区域：https://leetcode-cn.com/problems/surrounded-regions/
+  + 797. 所有可能的路径：https://leetcode-cn.com/problems/all-paths-from-source-to-target/
+  + 30. 串联所有单词的子串：https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/
+  + 315. 计算右侧小于当前元素的个数：https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/
+
+  + 78. 子集：https://leetcode-cn.com/problems/subsets/
+  + 90. 子集 II：https://leetcode-cn.com/problems/subsets-ii/
+
+  + 22. 括号生成：https://leetcode-cn.com/problems/generate-parentheses/
+  + 79. 单词搜索：https://leetcode-cn.com/problems/word-search/
+  + 384. 打乱数组：https://leetcode-cn.com/problems/shuffle-an-array/
+  + 201. 数字范围按位与：https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/
+  + 673. 最长递增子序列的个数：https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/
+  + 583. 两个字符串的删除操作：https://leetcode-cn.com/problems/delete-operation-for-two-strings/
+  + 149. 直线上最多的点数：https://leetcode-cn.com/problems/max-points-on-a-line/
+
 #### competition
 
 ##### 中等难度
