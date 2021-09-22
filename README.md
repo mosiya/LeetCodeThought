@@ -185,13 +185,12 @@
 
 + 2021.08.03 257. 二叉树的所有路径
 
-+ 2021.09.22 226. 翻转二叉树 and 700. 二叉搜索树中的搜索
++ 2021.09.22 226. 翻转二叉树 and 700. 二叉搜索树中的搜索 and 653. 两数之和 IV - 输入 BST
 
 ##### 中等难度
 + 2021.09.22 102. 二叉树的层序遍历
 
 ##### 未写入的题
-+ 653. 两数之和 IV - 输入 BST：https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/
 + 98. 验证二叉搜索树：https://leetcode-cn.com/problems/validate-binary-search-tree/
 + 235. 二叉搜索树的最近公共祖先：https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 + 404. 左叶子之和：https://leetcode-cn.com/problems/sum-of-left-leaves/
