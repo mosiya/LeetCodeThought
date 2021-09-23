@@ -231,8 +231,6 @@
 #### others
 
 + 做完未添加的题目：
-  + 930. 和相同的二元子数组：https://leetcode-cn.com/problems/binary-subarrays-with-sum/
-  + 981. 基于时间的键值存储：https://leetcode-cn.com/problems/time-based-key-value-store/
   + 274. H 指数：https://leetcode-cn.com/problems/h-index/
   + 275. H 指数 II：https://leetcode-cn.com/problems/h-index-ii/
   + 1846. 减小和重新排列数组后的最大元素：https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/
@@ -382,3 +380,5 @@
 
 + 2021.08.12 278. 第一个错误的版本
 
+##### 中等难度
++ 2021.09.23 981. 基于时间的键值存储
