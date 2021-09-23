@@ -189,12 +189,11 @@
 
 ##### 中等难度
 + 2021.09.22 102. 二叉树的层序遍历
++ 2021.09.23 98. 验证二叉搜索树
 
 ##### 未写入的题
-+ 98. 验证二叉搜索树：https://leetcode-cn.com/problems/validate-binary-search-tree/
 + 235. 二叉搜索树的最近公共祖先：https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 + 404. 左叶子之和：https://leetcode-cn.com/problems/sum-of-left-leaves/
-
 
 
 ##### 关于树的算法，可以使用的小技巧：
@@ -370,6 +369,9 @@
   + 673. 最长递增子序列的个数：https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/
   + 583. 两个字符串的删除操作：https://leetcode-cn.com/problems/delete-operation-for-two-strings/
   + 149. 直线上最多的点数：https://leetcode-cn.com/problems/max-points-on-a-line/
+
+  + 剑指 Offer 05. 替换空格：https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+  + 剑指 Offer 58 - II. 左旋转字符串：https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
 
 #### competition
 
