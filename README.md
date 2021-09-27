@@ -112,6 +112,8 @@
 
 + 2021.08.03 74. 搜索二维矩阵
 
++ 2021.09.27 274. H 指数
+
 
 ##### 关于数组的算法，可以使用的小技巧：
 
@@ -231,7 +233,6 @@
 #### others
 
 + 做完未添加的题目：
-  + 274. H 指数：https://leetcode-cn.com/problems/h-index/
   + 275. H 指数 II：https://leetcode-cn.com/problems/h-index-ii/
   + 1846. 减小和重新排列数组后的最大元素：https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/
   + 面试题 10.02. 变位词组：https://leetcode-cn.com/problems/group-anagrams-lcci/
@@ -365,13 +366,37 @@
   + 583. 两个字符串的删除操作：https://leetcode-cn.com/problems/delete-operation-for-two-strings/
   + 149. 直线上最多的点数：https://leetcode-cn.com/problems/max-points-on-a-line/
 
+  + 剑指 Offer 09. 用两个栈实现队列：https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
+  + 剑指 Offer 30. 包含min函数的栈https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/
+  + 剑指 Offer 35. 复杂链表的复制：https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/
   + 剑指 Offer 05. 替换空格：https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
   + 剑指 Offer 58 - II. 左旋转字符串：https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
+  + 198. 打家劫舍：https://leetcode-cn.com/problems/house-robber/
+  + 213. 打家劫舍 II：https://leetcode-cn.com/problems/house-robber-ii/
+  + 154. 寻找旋转排序数组中的最小值 II and 剑指 Offer 11. 旋转数组的最小数字：https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/
+  + 剑指 Offer 50. 第一个只出现一次的字符：https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/
+  + 剑指 Offer 32 - I. 从上到下打印二叉树：https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/
+  + 剑指 Offer 32 - II. 从上到下打印二叉树 II：https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/
+  + 剑指 Offer 32 - III. 从上到下打印二叉树 III：https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/
+  + 剑指 Offer 27. 二叉树的镜像：https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/
+  + 剑指 Offer 28. 对称的二叉树：https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/
+  + 剑指 Offer 26. 树的子结构：https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/
+
 
 #### competition
 
 ##### 中等难度
 + 2021.07.11 5793. 迷宫中离入口最近的出口
+
+
+
+
+#### everyday
+
+##### 中等难度
++ 2021.09.27 274. H 指数
+
+
 
 #### plan
 
