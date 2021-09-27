@@ -112,7 +112,7 @@
 
 + 2021.08.03 74. 搜索二维矩阵
 
-+ 2021.09.27 274. H 指数 and 275. H 指数 II and 1846. 减小和重新排列数组后的最大元素
++ 2021.09.27 274. H 指数 and 275. H 指数 II and 1846. 减小和重新排列数组后的最大元素 and 面试题 10.02. 变位词组
 
 
 ##### 关于数组的算法，可以使用的小技巧：
@@ -233,7 +233,7 @@
 #### others
 
 + 做完未添加的题目：
-  + 面试题 10.02. 变位词组：https://leetcode-cn.com/problems/group-anagrams-lcci/
+  + 剑指 Offer 42. 连续子数组的最大和：https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/
   + 1877. 数组中最大数对和的最小值：https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/
   + 136. 只出现一次的数字：https://leetcode-cn.com/problems/single-number/
   + 70. 爬楼梯：https://leetcode-cn.com/problems/climbing-stairs/
@@ -392,7 +392,7 @@
 #### everyday
 
 ##### 中等难度
-+ 2021.09.27 274. H 指数 and 275. H 指数 II and 1846. 减小和重新排列数组后的最大元素
++ 2021.09.27 274. H 指数 and 275. H 指数 II and 1846. 减小和重新排列数组后的最大元素 and 面试题 10.02. 变位词组
 
 
 
