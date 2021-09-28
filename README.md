@@ -233,7 +233,7 @@
 #### others
 
 + 做完未添加的题目：
-  + 155. 最小栈：https://leetcode-cn.com/problems/min-stack/
+  + 171. Excel 表列序号：https://leetcode-cn.com/problems/excel-sheet-column-number/
   + 334. 递增的三元子序列：https://leetcode-cn.com/problems/increasing-triplet-subsequence/
   + 560. 和为K的子数组：https://leetcode-cn.com/problems/subarray-sum-equals-k/
   + 409. 最长回文串：https://leetcode-cn.com/problems/longest-palindrome/
@@ -360,7 +360,6 @@
   + 583. 两个字符串的删除操作：https://leetcode-cn.com/problems/delete-operation-for-two-strings/
   + 149. 直线上最多的点数：https://leetcode-cn.com/problems/max-points-on-a-line/
 
-  + 剑指 Offer 09. 用两个栈实现队列：https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
   + 剑指 Offer 30. 包含min函数的栈https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/
   + 剑指 Offer 35. 复杂链表的复制：https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/
   + 剑指 Offer 05. 替换空格：https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
@@ -399,7 +398,7 @@
 
 + 2021.08.12 278. 第一个错误的版本
 
-+ 2021.09.28 剑指 Offer 10- I. 斐波那契数列 and 剑指 Offer 10- II. 青蛙跳台阶问题 and 70. 爬楼梯 and 剑指 Offer 63. 股票的最大利润 and 剑指 Offer 42. 连续子数组的最大和 and 1877. 数组中最大数对和的最小值 and 136. 只出现一次的数字 and 剑指 Offer 09. 用两个栈实现队列
++ 2021.09.28 剑指 Offer 10- I. 斐波那契数列 and 剑指 Offer 10- II. 青蛙跳台阶问题 and 70. 爬楼梯 and 剑指 Offer 63. 股票的最大利润 and 剑指 Offer 42. 连续子数组的最大和 and 1877. 数组中最大数对和的最小值 and 136. 只出现一次的数字 and 剑指 Offer 09. 用两个栈实现队列 and 155. 最小栈 and 
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
