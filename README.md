@@ -236,7 +236,6 @@
   + 剑指 Offer 42. 连续子数组的最大和：https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/
   + 1877. 数组中最大数对和的最小值：https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/
   + 136. 只出现一次的数字：https://leetcode-cn.com/problems/single-number/
-  + 70. 爬楼梯：https://leetcode-cn.com/problems/climbing-stairs/
   + 155. 最小栈：https://leetcode-cn.com/problems/min-stack/
   + 334. 递增的三元子序列：https://leetcode-cn.com/problems/increasing-triplet-subsequence/
   + 560. 和为K的子数组：https://leetcode-cn.com/problems/subarray-sum-equals-k/
@@ -403,7 +402,7 @@
 
 + 2021.08.12 278. 第一个错误的版本
 
-+ 2021.09.28 剑指 Offer 10- I. 斐波那契数列 and 剑指 Offer 10- II. 青蛙跳台阶问题 and 70. 爬楼梯 
++ 2021.09.28 剑指 Offer 10- I. 斐波那契数列 and 剑指 Offer 10- II. 青蛙跳台阶问题 and 70. 爬楼梯 and 剑指 Offer 63. 股票的最大利润
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
