@@ -365,7 +365,6 @@
 
   + 154. 寻找旋转排序数组中的最小值 II and 剑指 Offer 11. 旋转数组的最小数字：https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/
 
-  + 剑指 Offer 32 - III. 从上到下打印二叉树 III：https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/
   + 剑指 Offer 27. 二叉树的镜像：https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/
   + 剑指 Offer 28. 对称的二叉树：https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/
   + 剑指 Offer 26. 树的子结构：https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/
@@ -400,7 +399,7 @@
 + 2021.09.23 981. 基于时间的键值存储
 
 + 2021.09.28 1877. 数组中最大数对和的最小值 and 剑指 Offer 35. 复杂链表的复制 and 剑指 Offer 63. 股票的最大利润
-+ 2021.09.29 剑指 Offer 47. 礼物的最大价值 and 剑指 Offer 32 - I. 从上到下打印二叉树
++ 2021.09.29 剑指 Offer 47. 礼物的最大价值 and 剑指 Offer 32 - I. 从上到下打印二叉树 and 剑指 Offer 32 - III. 从上到下打印二叉树 III
 
 ##### 可掌握的技巧
 + 快速幂的算法 剑指 Offer 10- I. 斐波那契数列
