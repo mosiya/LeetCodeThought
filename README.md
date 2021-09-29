@@ -364,7 +364,6 @@
   + 213. 打家劫舍 II：https://leetcode-cn.com/problems/house-robber-ii/
 
   + 154. 寻找旋转排序数组中的最小值 II and 剑指 Offer 11. 旋转数组的最小数字：https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/
-  + 剑指 Offer 50. 第一个只出现一次的字符：https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/
   + 剑指 Offer 32 - I. 从上到下打印二叉树：https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/
   + 剑指 Offer 32 - II. 从上到下打印二叉树 II：https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/
   + 剑指 Offer 32 - III. 从上到下打印二叉树 III：https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/
@@ -396,6 +395,7 @@
 + 2021.08.12 278. 第一个错误的版本
 
 + 2021.09.28 剑指 Offer 10- I. 斐波那契数列 and 剑指 Offer 10- II. 青蛙跳台阶问题 and 70. 爬楼梯 and 剑指 Offer 42. 连续子数组的最大和 and 136. 只出现一次的数字 and 剑指 Offer 09. 用两个栈实现队列 and 155. 最小栈 and 剑指 Offer 30. 包含min函数的栈 and 剑指 Offer 05. 替换空格 and 剑指 Offer 58 - II. 左旋转字符串
++ 2021.09.29 剑指 Offer 50. 第一个只出现一次的字符
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
