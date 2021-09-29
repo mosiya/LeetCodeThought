@@ -237,7 +237,6 @@
 
   + 334. 递增的三元子序列：https://leetcode-cn.com/problems/increasing-triplet-subsequence/
   + 560. 和为K的子数组：https://leetcode-cn.com/problems/subarray-sum-equals-k/
-  + 409. 最长回文串：https://leetcode-cn.com/problems/longest-palindrome/
   + 415. 字符串相加：https://leetcode-cn.com/problems/add-strings/
   + 290. 单词规律：https://leetcode-cn.com/problems/word-pattern/
   + 763. 划分字母区间：https://leetcode-cn.com/problems/partition-labels/
@@ -392,7 +391,7 @@
 + 2021.08.12 278. 第一个错误的版本
 
 + 2021.09.28 剑指 Offer 10- I. 斐波那契数列 and 剑指 Offer 10- II. 青蛙跳台阶问题 and 70. 爬楼梯 and 剑指 Offer 42. 连续子数组的最大和 and 136. 只出现一次的数字 and 剑指 Offer 09. 用两个栈实现队列 and 155. 最小栈 and 剑指 Offer 30. 包含min函数的栈 and 剑指 Offer 05. 替换空格 and 剑指 Offer 58 - II. 左旋转字符串
-+ 2021.09.29 剑指 Offer 50. 第一个只出现一次的字符 and 剑指 Offer 32 - II. 从上到下打印二叉树 II and 剑指 Offer 27. 二叉树的镜像 and 剑指 Offer 28. 对称的二叉树
++ 2021.09.29 剑指 Offer 50. 第一个只出现一次的字符 and 剑指 Offer 32 - II. 从上到下打印二叉树 II and 剑指 Offer 27. 二叉树的镜像 and 剑指 Offer 28. 对称的二叉树 and 409. 最长回文串
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
