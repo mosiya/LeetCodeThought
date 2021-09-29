@@ -234,6 +234,8 @@
 
 + 做完未添加的题目：
   + 171. Excel 表列序号：https://leetcode-cn.com/problems/excel-sheet-column-number/
+  + 581. 最短无序连续子数组：https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
+
   + 334. 递增的三元子序列：https://leetcode-cn.com/problems/increasing-triplet-subsequence/
   + 560. 和为K的子数组：https://leetcode-cn.com/problems/subarray-sum-equals-k/
   + 409. 最长回文串：https://leetcode-cn.com/problems/longest-palindrome/
@@ -249,7 +251,6 @@
   + 82. 删除排序链表中的重复元素 II：https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/
   + 24. 两两交换链表中的节点：https://leetcode-cn.com/problems/swap-nodes-in-pairs/
   + 707. 设计链表：https://leetcode-cn.com/problems/design-linked-list/
-  + 581. 最短无序连续子数组：https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
   + 143. 重排链表：https://leetcode-cn.com/problems/reorder-list/
   + 328. 奇偶链表：https://leetcode-cn.com/problems/odd-even-linked-list/
   + 103. 二叉树的锯齿形层序遍历：https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/
@@ -365,9 +366,6 @@
 
   + 154. 寻找旋转排序数组中的最小值 II and 剑指 Offer 11. 旋转数组的最小数字：https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/
 
-  + 剑指 Offer 28. 对称的二叉树：https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/
-  + 剑指 Offer 26. 树的子结构：https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/
-
 
 #### competition
 
@@ -398,7 +396,7 @@
 + 2021.09.23 981. 基于时间的键值存储
 
 + 2021.09.28 1877. 数组中最大数对和的最小值 and 剑指 Offer 35. 复杂链表的复制 and 剑指 Offer 63. 股票的最大利润
-+ 2021.09.29 剑指 Offer 47. 礼物的最大价值 and 剑指 Offer 32 - I. 从上到下打印二叉树 and 剑指 Offer 32 - III. 从上到下打印二叉树 III
++ 2021.09.29 剑指 Offer 47. 礼物的最大价值 and 剑指 Offer 32 - I. 从上到下打印二叉树 and 剑指 Offer 32 - III. 从上到下打印二叉树 III and 剑指 Offer 26. 树的子结构
 
 ##### 可掌握的技巧
 + 快速幂的算法 剑指 Offer 10- I. 斐波那契数列
