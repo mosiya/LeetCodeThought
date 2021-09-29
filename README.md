@@ -233,7 +233,6 @@
 #### others
 
 + 做完未添加的题目：
-  + 171. Excel 表列序号：https://leetcode-cn.com/problems/excel-sheet-column-number/
   + 581. 最短无序连续子数组：https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
 
   + 334. 递增的三元子序列：https://leetcode-cn.com/problems/increasing-triplet-subsequence/
@@ -376,6 +375,9 @@
 
 
 #### everyday
+
+##### 简单难度
++ 2021.09.29 171. Excel 表列序号
 
 ##### 中等难度
 + 2021.09.27 274. H 指数 and 275. H 指数 II and 1846. 减小和重新排列数组后的最大元素 and 面试题 10.02. 变位词组
