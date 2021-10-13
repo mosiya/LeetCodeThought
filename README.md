@@ -235,10 +235,15 @@
 + 做完未添加的题目：
   + 581. 最短无序连续子数组：https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
 
-  + 334. 递增的三元子序列：https://leetcode-cn.com/problems/increasing-triplet-subsequence/
-  + 560. 和为K的子数组：https://leetcode-cn.com/problems/subarray-sum-equals-k/
   + 415. 字符串相加：https://leetcode-cn.com/problems/add-strings/
   + 290. 单词规律：https://leetcode-cn.com/problems/word-pattern/
+  + 997. 找到小镇的法官：https://leetcode-cn.com/problems/find-the-town-judge/
+  + 1137. 第 N 个泰波那契数：https://leetcode-cn.com/problems/n-th-tribonacci-number/
+  + 344. 反转字符串：https://leetcode-cn.com/problems/reverse-string/
+  + 557. 反转字符串中的单词 III：https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/
+
+  + 334. 递增的三元子序列：https://leetcode-cn.com/problems/increasing-triplet-subsequence/
+  + 560. 和为K的子数组：https://leetcode-cn.com/problems/subarray-sum-equals-k/
   + 763. 划分字母区间：https://leetcode-cn.com/problems/partition-labels/
   + 49. 字母异位词分组：https://leetcode-cn.com/problems/group-anagrams/
   + 43. 字符串相乘：https://leetcode-cn.com/problems/multiply-strings/
@@ -253,7 +258,7 @@
   + 328. 奇偶链表：https://leetcode-cn.com/problems/odd-even-linked-list/
   + 103. 二叉树的锯齿形层序遍历：https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/
   + 1249. 移除无效的括号：https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/
-  + 105. 从前序与中序遍历序列构造二叉树： https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+  + 105. 从前序与中序遍历序列构造二叉树：https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
   + 1823. 找出游戏的获胜者：https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/
   + 25. K 个一组翻转链表：https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
   + 199. 二叉树的右视图：https://leetcode-cn.com/problems/binary-tree-right-side-view/
@@ -262,7 +267,6 @@
   + 173. 二叉搜索树迭代器：https://leetcode-cn.com/problems/binary-search-tree-iterator/
   + 450. 删除二叉搜索树中的节点：https://leetcode-cn.com/problems/delete-node-in-a-bst/
   + 236. 二叉树的最近公共祖先：https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
-  + 997. 找到小镇的法官：https://leetcode-cn.com/problems/find-the-town-judge/
   + 1557. 可以到达所有点的最少点数目：https://leetcode-cn.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
   + 841. 钥匙和房间：https://leetcode-cn.com/problems/keys-and-rooms/
   + 215. 数组中的第K个最大元素：https://leetcode-cn.com/problems/kth-largest-element-in-an-array/
@@ -272,9 +276,6 @@
   + 297. 二叉树的序列化与反序列化：https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
   + 430. 扁平化多级双向链表：https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
   + 61. 旋转链表：https://leetcode-cn.com/problems/rotate-list/
-  + 1137. 第 N 个泰波那契数：https://leetcode-cn.com/problems/n-th-tribonacci-number/
-  + 344. 反转字符串：https://leetcode-cn.com/problems/reverse-string/
-  + 557. 反转字符串中的单词 III：https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/
   + 3. 无重复字符的最长子串：https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
   + 19. 删除链表的倒数第 N 个结点：https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
   + 567. 字符串的排列：https://leetcode-cn.com/problems/permutation-in-string/
@@ -362,14 +363,44 @@
   + 198. 打家劫舍：https://leetcode-cn.com/problems/house-robber/
   + 213. 打家劫舍 II：https://leetcode-cn.com/problems/house-robber-ii/
 
+  + 50. Pow(x, n)：https://leetcode-cn.com/problems/powx-n/
+  + 剑指 Offer 16. 数值的整数次方：https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/
+
   + 154. 寻找旋转排序数组中的最小值 II and 剑指 Offer 11. 旋转数组的最小数字：https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/
+  + 剑指 Offer 55 - I. 二叉树的深度：https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/
+  + 剑指 Offer 55 - II. 平衡二叉树：https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/
+  + 剑指 Offer 46. 把数字翻译成字符串：https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/
+  + 剑指 Offer 48. 最长不含重复字符的子字符串：https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/
+  + 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面：https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/
+  + 剑指 Offer 57. 和为s的两个数字：https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/
+  + 剑指 Offer 58 - I. 翻转单词顺序：https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/
+  + 剑指 Offer 12. 矩阵中的路径：https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/
+  + 剑指 Offer 34. 二叉树中和为某一值的路径：https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/
+  + 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先：https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/
+  + 剑指 Offer 68 - II. 二叉树的最近公共祖先：https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/
+  + 剑指 Offer 64. 求1+2+…+n：https://leetcode-cn.com/problems/qiu-12n-lcof/
+  + 剑指 Offer 07. 重建二叉树：https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/
+  + 剑指 Offer 56 - I. 数组中数字出现的次数：https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/
+  + 剑指 Offer 56 - II. 数组中数字出现的次数 II：https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/
+  + 剑指 Offer 15. 二进制中1的个数：https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/
+  + 剑指 Offer 65. 不用加减乘除做加法：https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/
+  + 剑指 Offer 45. 把数组排成最小的数：https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/
+  + 剑指 Offer 61. 扑克牌中的顺子：https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/
+  + 剑指 Offer 40. 最小的k个数：https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/
+  + 剑指 Offer 41. 数据流中的中位数：https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/
+  + 剑指 Offer 39. 数组中出现次数超过一半的数字：https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/
+  + 剑指 Offer 66. 构建乘积数组（虽然跟238一样但是必须重写题解！）：https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/
+  + 剑指 Offer 36. 二叉搜索树与双向链表：https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/
+  + 剑指 Offer 54. 二叉搜索树的第k大节点：https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
+  + 剑指 Offer 13. 机器人的运动范围：https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
+  + 剑指 Offer 33. 二叉搜索树的后序遍历序列：https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/
+
 
 
 #### competition
 
 ##### 中等难度
 + 2021.07.11 5793. 迷宫中离入口最近的出口
-
 
 
 
