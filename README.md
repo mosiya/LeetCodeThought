@@ -238,7 +238,6 @@
   + 415. 字符串相加：https://leetcode-cn.com/problems/add-strings/
   + 290. 单词规律：https://leetcode-cn.com/problems/word-pattern/
   + 997. 找到小镇的法官：https://leetcode-cn.com/problems/find-the-town-judge/
-  + 1137. 第 N 个泰波那契数：https://leetcode-cn.com/problems/n-th-tribonacci-number/
   + 344. 反转字符串：https://leetcode-cn.com/problems/reverse-string/
   + 557. 反转字符串中的单词 III：https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/
 
@@ -274,6 +273,7 @@
   + 451. 根据字符出现频率排序：https://leetcode-cn.com/problems/sort-characters-by-frequency/
   + 973. 最接近原点的 K 个点：https://leetcode-cn.com/problems/k-closest-points-to-origin/
   + 297. 二叉树的序列化与反序列化：https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
+  + 剑指 Offer 37. 序列化二叉树：https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/
   + 430. 扁平化多级双向链表：https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
   + 61. 旋转链表：https://leetcode-cn.com/problems/rotate-list/
   + 3. 无重复字符的最长子串：https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
@@ -394,6 +394,27 @@
   + 剑指 Offer 54. 二叉搜索树的第k大节点：https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
   + 剑指 Offer 13. 机器人的运动范围：https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
   + 剑指 Offer 33. 二叉搜索树的后序遍历序列：https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/
+  + 剑指 Offer 14- I. 剪绳子：https://leetcode-cn.com/problems/jian-sheng-zi-lcof/
+  + 剑指 Offer 57 - II. 和为s的连续正数序列：https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/
+  + 剑指 Offer 29. 顺时针打印矩阵：https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/
+  + 剑指 Offer 31. 栈的压入、弹出序列：https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/
+  + 456. 132 模式：https://leetcode-cn.com/problems/132-pattern/
+  + 483. 最小好进制：https://leetcode-cn.com/problems/smallest-good-base/
+  + 968. 监控二叉树：https://leetcode-cn.com/problems/binary-tree-cameras/
+  + 剑指 Offer 49. 丑数：https://leetcode-cn.com/problems/chou-shu-lcof
+  + 剑指 Offer 20. 表示数值的字符串：https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/
+  + 剑指 Offer 67. 把字符串转换成整数：https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/
+  + 剑指 Offer 59 - I. 滑动窗口的最大值：https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/
+  + 剑指 Offer 38. 字符串的排列：https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/
+  + 剑指 Offer 19. 正则表达式匹配：https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/
+  + 剑指 Offer 59 - II. 队列的最大值：https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/
+  + 720. 词典中最长的单词：https://leetcode-cn.com/problems/longest-word-in-dictionary/
+  + 787. K 站中转内最便宜的航班：https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/
+
+  + 416. 分割等和子集：https://leetcode-cn.com/problems/partition-equal-subset-sum/
+  + 剑指 Offer 62. 圆圈中最后剩下的数字：https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/
+  + 496. 下一个更大元素 I：https://leetcode-cn.com/problems/next-greater-element-i/
+  + 28. 实现 strStr()：https://leetcode-cn.com/problems/implement-strstr/
 
 
 
@@ -423,6 +444,8 @@
 
 + 2021.09.28 剑指 Offer 10- I. 斐波那契数列 and 剑指 Offer 10- II. 青蛙跳台阶问题 and 70. 爬楼梯 and 剑指 Offer 42. 连续子数组的最大和 and 136. 只出现一次的数字 and 剑指 Offer 09. 用两个栈实现队列 and 155. 最小栈 and 剑指 Offer 30. 包含min函数的栈 and 剑指 Offer 05. 替换空格 and 剑指 Offer 58 - II. 左旋转字符串
 + 2021.09.29 剑指 Offer 50. 第一个只出现一次的字符 and 剑指 Offer 32 - II. 从上到下打印二叉树 II and 剑指 Offer 27. 二叉树的镜像 and 剑指 Offer 28. 对称的二叉树 and 409. 最长回文串
+
++ 2021.10.26 1137. 第 N 个泰波那契数
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
