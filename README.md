@@ -235,7 +235,6 @@
 + 做完未添加的题目：
   + 581. 最短无序连续子数组：https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
 
-  + 344. 反转字符串：https://leetcode-cn.com/problems/reverse-string/
   + 557. 反转字符串中的单词 III：https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/
 
   + 334. 递增的三元子序列：https://leetcode-cn.com/problems/increasing-triplet-subsequence/
@@ -443,7 +442,7 @@
 + 2021.09.29 剑指 Offer 50. 第一个只出现一次的字符 and 剑指 Offer 32 - II. 从上到下打印二叉树 II and 剑指 Offer 27. 二叉树的镜像 and 剑指 Offer 28. 对称的二叉树 and 409. 最长回文串
 
 + 2021.10.26 1137. 第 N 个泰波那契数 and 415. 字符串相加
-+ 2021.10.27 290. 单词规律 and 997. 找到小镇的法官
++ 2021.10.27 290. 单词规律 and 997. 找到小镇的法官 and 344. 反转字符串
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
