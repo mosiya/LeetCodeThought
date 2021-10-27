@@ -274,7 +274,6 @@
   + 567. 字符串的排列：https://leetcode-cn.com/problems/permutation-in-string/
 
 
-  + 617. 合并二叉树：https://leetcode-cn.com/problems/merge-two-binary-trees/
   + 231. 2 的幂：https://leetcode-cn.com/problems/power-of-two/
   + 191. 位1的个数：https://leetcode-cn.com/problems/number-of-1-bits/
   + 190. 颠倒二进制位：https://leetcode-cn.com/problems/reverse-bits/
@@ -447,7 +446,7 @@
 + 2021.09.29 剑指 Offer 50. 第一个只出现一次的字符 and 剑指 Offer 32 - II. 从上到下打印二叉树 II and 剑指 Offer 27. 二叉树的镜像 and 剑指 Offer 28. 对称的二叉树 and 409. 最长回文串
 
 + 2021.10.26 1137. 第 N 个泰波那契数 and 415. 字符串相加
-+ 2021.10.27 290. 单词规律 and 997. 找到小镇的法官 and 344. 反转字符串 and 557. 反转字符串中的单词 III and 733. 图像渲染
++ 2021.10.27 290. 单词规律 and 997. 找到小镇的法官 and 344. 反转字符串 and 557. 反转字符串中的单词 III and 733. 图像渲染 and 617. 合并二叉树
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
