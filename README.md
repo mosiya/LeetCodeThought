@@ -273,10 +273,6 @@
   + 19. 删除链表的倒数第 N 个结点：https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
   + 567. 字符串的排列：https://leetcode-cn.com/problems/permutation-in-string/
 
-
-  + 190. 颠倒二进制位：https://leetcode-cn.com/problems/reverse-bits/
-
-
   + 695. 岛屿的最大面积：https://leetcode-cn.com/problems/max-area-of-island/
   + 116. 填充每个节点的下一个右侧节点指针：https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/
   + 542. 01 矩阵：https://leetcode-cn.com/problems/01-matrix/
@@ -445,7 +441,7 @@
 
 + 2021.10.26 1137. 第 N 个泰波那契数 and 415. 字符串相加
 + 2021.10.27 290. 单词规律 and 997. 找到小镇的法官 and 344. 反转字符串 and 557. 反转字符串中的单词 III and 733. 图像渲染 and 617. 合并二叉树
-+ 2021.10.28 231. 2 的幂 and 191. 位1的个数
++ 2021.10.28 231. 2 的幂 and 191. 位1的个数 and 190. 颠倒二进制位
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
