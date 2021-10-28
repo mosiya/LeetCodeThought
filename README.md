@@ -274,7 +274,6 @@
   + 567. 字符串的排列：https://leetcode-cn.com/problems/permutation-in-string/
 
 
-  + 231. 2 的幂：https://leetcode-cn.com/problems/power-of-two/
   + 191. 位1的个数：https://leetcode-cn.com/problems/number-of-1-bits/
   + 190. 颠倒二进制位：https://leetcode-cn.com/problems/reverse-bits/
 
@@ -447,6 +446,7 @@
 
 + 2021.10.26 1137. 第 N 个泰波那契数 and 415. 字符串相加
 + 2021.10.27 290. 单词规律 and 997. 找到小镇的法官 and 344. 反转字符串 and 557. 反转字符串中的单词 III and 733. 图像渲染 and 617. 合并二叉树
++ 2021.10.28 231. 2 的幂
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
