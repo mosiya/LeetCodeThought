@@ -291,10 +291,6 @@
   + 139. 单词拆分：https://leetcode-cn.com/problems/word-break/
   + 413. 等差数列划分：https://leetcode-cn.com/problems/arithmetic-slices/
 
-
-  + 392. 判断子序列：https://leetcode-cn.com/problems/is-subsequence/
-
-
   + 91. 解码方法：https://leetcode-cn.com/problems/decode-ways/
   + 264. 丑数 II：https://leetcode-cn.com/problems/ugly-number-ii/
   + 96. 不同的二叉搜索树：https://leetcode-cn.com/problems/unique-binary-search-trees/
@@ -442,6 +438,8 @@
 + 2021.10.26 1137. 第 N 个泰波那契数 and 415. 字符串相加
 + 2021.10.27 290. 单词规律 and 997. 找到小镇的法官 and 344. 反转字符串 and 557. 反转字符串中的单词 III and 733. 图像渲染 and 617. 合并二叉树
 + 2021.10.28 231. 2 的幂 and 191. 位1的个数 and 190. 颠倒二进制位
+
++ 2021.11.04 392. 判断子序列
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
