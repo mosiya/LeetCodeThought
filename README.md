@@ -315,7 +315,6 @@
   + 4. 寻找两个正序数组的中位数：https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
 
 
-  + 14. 最长公  共前缀：https://leetcode-cn.com/problems/longest-common-prefix/
   + 572. 另一棵树的子树：https://leetcode-cn.com/problems/subtree-of-another-tree/
 
 
@@ -440,6 +439,8 @@
 
 + 2021.11.04 392. 判断子序列
 + 2021.11.05 844. 比较含退格的字符串
+
++ 2021.11.17 14. 最长公共前缀
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
