@@ -315,9 +315,6 @@
   + 4. 寻找两个正序数组的中位数：https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
 
 
-  + 572. 另一棵树的子树：https://leetcode-cn.com/problems/subtree-of-another-tree/
-
-
   + 146. LRU 缓存机制：https://leetcode-cn.com/problems/lru-cache/
   + 877. 石子游戏：https://leetcode-cn.com/problems/stone-game/
   + 17. 电话号码的字母组合：https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
@@ -440,7 +437,7 @@
 + 2021.11.04 392. 判断子序列
 + 2021.11.05 844. 比较含退格的字符串
 
-+ 2021.11.17 14. 最长公共前缀
++ 2021.11.17 14. 最长公共前缀 and 572. 另一棵树的子树
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
