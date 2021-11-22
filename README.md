@@ -309,11 +309,9 @@
   + 343. 整数拆分：https://leetcode-cn.com/problems/integer-break/
   + 279. 完全平方数：https://leetcode-cn.com/problems/perfect-squares/
 
-  + 153. 寻找旋转排序数组中的最小值：https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/
   + 162. 寻找峰值：https://leetcode-cn.com/problems/find-peak-element/
   + 92. 反转链表 II：https://leetcode-cn.com/problems/reverse-linked-list-ii/
   + 4. 寻找两个正序数组的中位数：https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
-
 
   + 146. LRU 缓存机制：https://leetcode-cn.com/problems/lru-cache/
   + 877. 石子游戏：https://leetcode-cn.com/problems/stone-game/
@@ -444,6 +442,8 @@
 
 + 2021.09.28 1877. 数组中最大数对和的最小值 and 剑指 Offer 35. 复杂链表的复制 and 剑指 Offer 63. 股票的最大利润
 + 2021.09.29 剑指 Offer 47. 礼物的最大价值 and 剑指 Offer 32 - I. 从上到下打印二叉树 and 剑指 Offer 32 - III. 从上到下打印二叉树 III and 剑指 Offer 26. 树的子结构
+
++ 2021.11.22 153. 寻找旋转排序数组中的最小值
 
 ##### 可掌握的技巧
 + 快速幂的算法 剑指 Offer 10- I. 斐波那契数列
