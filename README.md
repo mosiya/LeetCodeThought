@@ -348,7 +348,6 @@
   + 剑指 Offer 16. 数值的整数次方：https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/
 
 
-  + 剑指 Offer 58 - I. 翻转单词顺序：https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/
   + 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先：https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/
   + 剑指 Offer 68 - II. 二叉树的最近公共祖先：https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/
   + 剑指 Offer 15. 二进制中1的个数：https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/
@@ -432,8 +431,8 @@
 
 + 2021.11.17 14. 最长公共前缀 and 572. 另一棵树的子树
 
-+ 2021.11.22 剑指 Offer 11. 旋转数组的最小数字
-+ 2021.11.23 剑指 Offer 55 - I. 二叉树的深度 and 剑指 Offer 55 - II. 平衡二叉树 and 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 and 剑指 Offer 57. 和为s的两个数字
++ 2021.11.22 剑指 Offer 11. 旋转数组的最小数字( 154. 寻找旋转排序数组中的最小值 II )
++ 2021.11.23 剑指 Offer 55 - I. 二叉树的深度 and 剑指 Offer 55 - II. 平衡二叉树 and 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 and 剑指 Offer 57. 和为s的两个数字 and 151. 翻转字符串里的单词(剑指 Offer 58 - I. 翻转单词顺序)
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
