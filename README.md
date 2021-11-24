@@ -258,7 +258,6 @@
   + 230. 二叉搜索树中第K小的元素：https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/
   + 173. 二叉搜索树迭代器：https://leetcode-cn.com/problems/binary-search-tree-iterator/
   + 450. 删除二叉搜索树中的节点：https://leetcode-cn.com/problems/delete-node-in-a-bst/
-  + 236. 二叉树的最近公共祖先：https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
   + 1557. 可以到达所有点的最少点数目：https://leetcode-cn.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
   + 841. 钥匙和房间：https://leetcode-cn.com/problems/keys-and-rooms/
   + 215. 数组中的第K个最大元素：https://leetcode-cn.com/problems/kth-largest-element-in-an-array/
@@ -348,7 +347,6 @@
   + 剑指 Offer 16. 数值的整数次方：https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/
 
 
-  + 剑指 Offer 68 - II. 二叉树的最近公共祖先：https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/
   + 剑指 Offer 15. 二进制中1的个数：https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/
   + 剑指 Offer 65. 不用加减乘除做加法：https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/
   + 剑指 Offer 61. 扑克牌中的顺子：https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/
@@ -430,8 +428,9 @@
 
 + 2021.11.17 14. 最长公共前缀 and 572. 另一棵树的子树
 
-+ 2021.11.22 剑指 Offer 11. 旋转数组的最小数字( 154. 寻找旋转排序数组中的最小值 II )
-+ 2021.11.23 剑指 Offer 55 - I. 二叉树的深度 and 剑指 Offer 55 - II. 平衡二叉树 and 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 and 剑指 Offer 57. 和为s的两个数字 and 151. 翻转字符串里的单词(剑指 Offer 58 - I. 翻转单词顺序) and 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先
++ 2021.11.22 剑指 Offer 11. 旋转数组的最小数字
++ 2021.11.23 剑指 Offer 55 - I. 二叉树的深度 and 剑指 Offer 55 - II. 平衡二叉树 and 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 and 剑指 Offer 57. 和为s的两个数字 and 剑指 Offer 58 - I. 翻转单词顺序 and 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先
++ 2021.11.24 剑指 Offer 68 - II. 二叉树的最近公共祖先
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
@@ -440,6 +439,8 @@
 + 2021.09.29 剑指 Offer 47. 礼物的最大价值 and 剑指 Offer 32 - I. 从上到下打印二叉树 and 剑指 Offer 32 - III. 从上到下打印二叉树 III and 剑指 Offer 26. 树的子结构
 
 + 2021.11.22 153. 寻找旋转排序数组中的最小值
++ 2021.11.23 151. 翻转字符串里的单词
++ 2021.11.24 236. 二叉树的最近公共祖先
 
 ##### 可掌握的技巧
 + 快速幂的算法 剑指 Offer 10- I. 斐波那契数列
