@@ -347,8 +347,6 @@
   + 剑指 Offer 16. 数值的整数次方：https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/
 
 
-  + 剑指 Offer 15. 二进制中1的个数：https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/
-  + 剑指 Offer 65. 不用加减乘除做加法：https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/
   + 剑指 Offer 61. 扑克牌中的顺子：https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/
   + 剑指 Offer 40. 最小的k个数：https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/
   + 剑指 Offer 39. 数组中出现次数超过一半的数字：https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/
@@ -431,6 +429,7 @@
 + 2021.11.22 剑指 Offer 11. 旋转数组的最小数字
 + 2021.11.23 剑指 Offer 55 - I. 二叉树的深度 and 剑指 Offer 55 - II. 平衡二叉树 and 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 and 剑指 Offer 57. 和为s的两个数字 and 剑指 Offer 58 - I. 翻转单词顺序 and 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先
 + 2021.11.24 剑指 Offer 68 - II. 二叉树的最近公共祖先 and 剑指 Offer 15. 二进制中1的个数
++ 2021.11.25 剑指 Offer 65. 不用加减乘除做加法
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
