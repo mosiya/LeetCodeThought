@@ -353,7 +353,6 @@
   + 剑指 Offer 16. 数值的整数次方：https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/
 
 
-  + 剑指 Offer 54. 二叉搜索树的第k大节点：https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
   + 剑指 Offer 57 - II. 和为s的连续正数序列：https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/
   + 剑指 Offer 29. 顺时针打印矩阵：https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/
   + 720. 词典中最长的单词：https://leetcode-cn.com/problems/longest-word-in-dictionary/
@@ -436,6 +435,7 @@
 + 2021.11.26 剑指 Offer 40. 最小的k个数
 
 + 2022.01.05 剑指 Offer 39. 数组中出现次数超过一半的数字
++ 2022.01.06 剑指 Offer 54. 二叉搜索树的第k大节点
 
 ##### 中等难度
 + 2021.09.23 981. 基于时间的键值存储
